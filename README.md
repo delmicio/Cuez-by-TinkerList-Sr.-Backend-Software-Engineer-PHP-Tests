@@ -1,1 +1,2 @@
-# Transaction Structure Solution
+*   Coding challenge - Part Position: [https://github.com/delmicio/Cuez-by-TinkerList-Sr.-Backend-Software-Engineer-PHP-Tests/blob/main/Part-Position-Solution.md](https://github.com/delmicio/Cuez-by-TinkerList-Sr.-Backend-Software-Engineer-PHP-Tests/blob/main/Part-Position-Solution.md)
+*   Problem solving - transaction Structure: [https://github.com/delmicio/Cuez-by-TinkerList-Sr.-Backend-Software-Engineer-PHP-Tests/blob/main/Transaction-Structure-Solution.md](https://github.com/delmicio/Cuez-by-TinkerList-Sr.-Backend-Software-Engineer-PHP-Tests/blob/main/Transaction-Structure-Solution.md)
